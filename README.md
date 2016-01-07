@@ -1,2 +1,2 @@
-# goterminate
-SIGTERM handler for go
+# gosignaler
+Signal handler wrapperr for go
