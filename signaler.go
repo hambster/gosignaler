@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	SignalBufferSize = 32
+	SignalBufferSize = 32 //capacity of signal channel
 )
 
 var (
